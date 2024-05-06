@@ -1,0 +1,59 @@
+.logo{
+    position:absolute;
+    float: left;
+    height: 104px;
+    display: flex;
+    align-items: center;
+}
+.linksC{
+    float: right;
+    height: 104px;
+    display: flex;
+    align-items: center;
+}
+
+.conteudo{
+    padding-bottom: 40px;
+}
+
+.rodape{
+    text-align: center;
+}
+
+
+/* div {
+    border: 1px solid black;
+} */
+
+.titulo {
+    color: rgb(0, 0, 0); 
+    font-size: 24px;
+}
+
+.paragrafo {
+    font-size: 16px;
+    text-align: justify;
+    color: rgb(5, 0, 0);
+}
+
+body {
+    max-width: 900px;
+    margin: 0 auto;
+    background-image: url(fundo2.png);
+    background-repeat: repeat;
+}
+
+.rodape {
+font-size: 16px;
+text-align:center
+}
+
+.box{
+    position: absolute;
+    left: 50%;
+}
+
+.tracejado{
+    text-align: center;
+    position: fixed;
+}

@@ -1,0 +1,32 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid red;
+}
+
+span{
+    
+    border: 2px solid blue;
+}
+
+.box1{
+    position: relative;
+    top: 50%;
+    left: 50%;
+}
+
+.box2{
+    position: relative;
+    height: 500px;
+    width: 500px;
+    border: 2px solid gray;
+}
+
+.box3{
+    position: absolute;
+    left: 50%;
+}
+
+.box6{
+    position: fixed;
+}
